@@ -2,7 +2,7 @@
 
 I am Farhan Arifandi, an undergraduate student of the Department of Informatics at Sepuluh Nopember Institute of Technology Surabaya, class of 2023.
 
-- 🌱 I’m currently learning Laravel, Back-End Engineering, and Cloud Computing
+- 🌱 I’m currently learning **Laravel, Back-End Engineering, and Cloud Computing**
 - 📫 You can reach me via: <p>
   <a href="https://www.linkedin.com/in/farfnd">
     <img align="left" alt="LinkedIn" width="30px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" />
