@@ -21,5 +21,5 @@ I am Farhan Arifandi, an undergraduate student of the Department of Informatics 
 <br><br><br>
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=farfnd&show_icons=true&theme=algolia" height=160 />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farfnd&layout=compact&theme=algolia&hide=css" height=160 />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farfnd&layout=compact&theme=algolia&hide=html,css,blade" height=160 />
 </p>
