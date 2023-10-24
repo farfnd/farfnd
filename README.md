@@ -1,6 +1,6 @@
 ### Hi, I'm Farhan 👋
 
-I am Farhan Arifandi, an undergraduate student of the Department of Informatics at Sepuluh Nopember Institute of Technology Surabaya, class of 2023.
+I am Farhan Arifandi, a Bachelor of Informatics from Sepuluh Nopember Institute of Technology Surabaya.
 
 - 🌱 I’m currently learning **Laravel, Back-End Development, and Cloud Computing**
 - 💼 You can access my portfolio [here](https://raw.githubusercontent.com/farfnd/farfnd/master/Portfolio.pdf)
